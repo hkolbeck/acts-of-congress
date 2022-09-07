@@ -1,0 +1,8 @@
+{
+  "name": "us-congress-bot",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "twitter-api-client": "^1.6.1"
+  }
+}
